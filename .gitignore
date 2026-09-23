@@ -1,0 +1,15 @@
+.env
+backend/.env
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+mobile/.dart_tool/
+mobile/build/
+mobile/.idea/
+mobile/android/.gradle/
+*.apk
+*.aab
+work/
+
+**/.venv/
